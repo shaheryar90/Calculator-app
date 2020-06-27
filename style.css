@@ -1,0 +1,54 @@
+.main{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    background-color:lightcoral;
+    
+}
+.result{
+    width: 94%;
+    background-color:white;
+    color: black;
+    height: 60px;
+    border-radius: 3px;
+    font-size: x-large;
+    margin: 5px;
+    font: bold;
+    font-size: 20px;
+    
+}
+.clearBtn{
+    width: 85px;
+    margin-top: 5px;
+    background-color:lightpink;
+    height: 50px;
+    margin: 5px;
+    border-radius: 3px;
+    font-size: 20px;
+}
+.btn{
+    background-color:lightpink;
+    width: 85px;
+    margin: 5px;
+    height: 50PX;
+    border-radius: 3px;
+    font: bold;
+    font-size: 20px;
+}
+div button:hover{
+    background-color: lightcoral;
+    font-size: x-large;
+    color: white;
+    cursor: pointer;
+}
+.halfBtn{
+    background-color: lightpink;
+    width: 85px;
+    margin-top: 5px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 3px;
+    font-size: 20px;
+}
